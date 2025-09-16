@@ -1,6 +1,6 @@
-# 📊 Machine Learning App  
+# 📊 Machine Learning  
 
-A aplicação **Machine Learning App** é um software voltado para **análises preditivas**, com foco em **classificação binária** e **multi classe**, desenvolvido para simplificar o processo de criação, avaliação e utilização de modelos de aprendizado de máquina.  
+A aplicação **Detecção de Risco** é um software voltado para **análises preditivas**, com foco em **classificação binária** e **multi classe**, desenvolvido para simplificar o processo de criação, avaliação e utilização de modelos de aprendizado de máquina.  
 
 Desenvolvido em **Python**, o software conta com uma **interface gráfica amigável**, permitindo:  
 - 📂 Carregar conjuntos de dados  
