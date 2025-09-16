@@ -1,4 +1,4 @@
-# 📊 Machine Learning  
+# 📊 Machine Learning  - Detecção de Risco
 
 A aplicação **'Detecção de Risco'** é um software voltado para **análises preditivas**, com foco em **classificação binária** e **multi classe**, desenvolvido para simplificar o processo de criação, avaliação e utilização de modelos de aprendizado de máquina, com ênfase na detecção de condições anômalas e/ou padrões que possam colocar algo em risco.  
 
