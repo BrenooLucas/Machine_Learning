@@ -2,7 +2,7 @@
 
 A aplicação **Detecção de Risco** é um software voltado para **análises preditivas**, com foco em **classificação binária** e **multi classe**, desenvolvido para simplificar o processo de criação, avaliação e utilização de modelos de aprendizado de máquina.  
 
-Desenvolvido em **Python**, o software conta com uma **interface gráfica amigável**, permitindo:  
+Desenvolvido em **Python**, o software conta com uma **interface simples**, permitindo:  
 - 📂 Carregar conjuntos de dados  
 - 🧹 Preparar e tratar informações (limpeza, outliers, escalonamento, variáveis categóricas)  
 - 🏋️ Treinar diferentes algoritmos  
